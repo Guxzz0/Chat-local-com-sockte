@@ -46,11 +46,13 @@ https://trello.com/invite/b/690d5606b9cce4c53ec1ceb2/ATTI53dbb40cfddb96f8f65c05b
 
 ### Caso de Uso
 Representa as ações possíveis do usuário e do servidor.  
-*(ver imagem: `UML_Caso_de_Uso.png`)*
+<img width="1536" height="1024" alt="Diagrama de caso de uso" src="https://github.com/user-attachments/assets/0f5424c0-76b8-4257-802a-e499b4782ee2" />
+
 
 ### Classes
 Mostra a estrutura e relacionamento entre as classes principais.  
-*(ver imagem: `UML_Classes.png`)*
+<img width="1536" height="1024" alt="Diagrama de classes" src="https://github.com/user-attachments/assets/f8b319b0-d8d5-4a85-a820-653d37353d0b" />
+
 
 ---
 
