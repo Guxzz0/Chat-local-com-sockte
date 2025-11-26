@@ -35,6 +35,10 @@ chat_local_socket/
 - **threading** (para múltiplas conexões)
 - **datetime** (para registro de horários)
 
+## Requisitos:
+- Python 3.8+
+- customtkinter (pip install customtkinter)
+  
 ---
 ## Link do Trello
 
@@ -56,27 +60,12 @@ Mostra a estrutura e relacionamento entre as classes principais.
 
 ---
 
-## Como Executar
+## Como rodar:
+1) Instale a lib: pip install customtkinter
+2) Abra um terminal e execute: python server.py
+3) Em outro terminal execute: python client_gui.py
+   (ou use python start_chat.py para abrir servidor + 2 clientes automaticamente)
 
-### 1Clone o repositório
-```bash
-git clone https://github.com/Guxzz0/chat-local-socket.git
-cd chat-local-socket
-```
-
-### 2Execute o servidor
-```bash
-python server.py
-```
-
-### 3Execute os clientes
-Em outros terminais:
-```bash
-python client.py
-```
-
-### 4Envie mensagens
-Cada cliente conectado pode enviar e receber mensagens em tempo real.
 
 ---
 
